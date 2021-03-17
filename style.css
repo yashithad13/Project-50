@@ -1,0 +1,35 @@
+h1{
+    color:lightcoral;
+    border:10px solid dimgray;
+    background-color: dimgray;
+}
+body{
+    background-color: aliceblue;
+}
+img{
+    border:5px solid black;
+    border-radius: 40px;
+}
+p{
+    font-family: Comic sans ms;
+    font-weight: italic;
+}
+.header{
+    display:flex;
+    justify-content : space-between;
+    background-color: rgb(95, 93, 93);
+    font-size: 20px;
+    font-family: sans-serif;
+    color: white;
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    font-family: sans-serif;
+}
+.bodyimg1{
+    border-radius: 20px;
+    background-color: white;
+    width: 310px;
+    font-family: fantasy;
+}
